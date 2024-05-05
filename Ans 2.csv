@@ -1,0 +1,297 @@
+week_day,genre,city,total_amount
+0,"Soccer Sim",Auckland,37000
+0,"3D Platformer",Auckland,37000
+0,"Visual Novel",Auckland,37000
+0,"Turn-Based Tactics",Auckland,37000
+0,"Auto Racing",Bengaluru,44050
+0,"3D Fighting",Briminghim,56000
+0,Adventure,Briminghim,56000
+0,"Linear Action Adventure",Brisbane,38000
+0,"Linear Action Adventure",Calgary,38000
+0,"Auto Racing",Chandigarh,99500
+0,"Virtual Career",Chennai,74000
+0,JRPG,Chicago,74000
+0,"Command RTS",Christchurch,37000
+0,"Auto Racing Sim",Christchurch,37000
+0,"Arcade Racing",Christchurch,37000
+0,"Open-World Action",Dallas,37550
+0,Simulation,Dublin,37000
+0,"Visual Novel",Dublin,37000
+0,"Action Adventure",Edmonton,39100
+0,Strategy,Florence,75100
+0,"3D Platformer",Frankfurt,19000
+0,"Third Person Shooter",Frankfurt,19000
+0,"Action RPG",Galway,37000
+0,"Action Adventure",Hamburg,39250
+0,"Action RPG",London,78400
+0,"Tactical FPS",Melbourne,74000
+0,"Auto Racing",Mumbai,19000
+0,"Light Gun",Mumbai,19000
+0,"2D Beat-'Em-Up",Mumbai,19000
+0,Defense,Mumbai,19000
+0,Edutainment,"New Delhi",37000
+0,"3D Beat-'Em-Up","New Delhi",37000
+0,Action,"New Delhi",37000
+0,MMORPG,"New Delhi",37000
+0,"Top-Down Shoot-'Em-Up","New Delhi",37000
+0,Point-and-Click,"New Delhi",37000
+0,"Action Puzzle","New Delhi",37000
+0,FPS,"New York",37100
+0,Point-and-Click,Pune,37000
+0,"Action Adventure",Rome,74000
+0,Rhythm,Singapore,37000
+0,"Arcade Racing",Singapore,37000
+0,"Western RPG",Singapore,37000
+0,"Action Adventure",Sydney,37000
+0,"3D Platformer",Sydney,37000
+0,Board,Toronto,37000
+0,Point-and-Click,Toronto,37000
+0,"Action RPG",Toronto,37000
+0,"Top-Down Shoot-'Em-Up",Vancouver,19000
+0,Adventure,Venice,37000
+0,"Turn-Based Tactics",Venice,37000
+0,Strategy,Venice,37000
+0,"Action Adventure",Wellington,56550
+1,"Action Adventure",Auckland,37550
+1,"Baseball Sim",Bengaluru,37000
+1,"4X Strategy",Bengaluru,37000
+1,"Command RTS",Briminghim,37000
+1,"3D Fighting",Briminghim,37000
+1,"Open-World Action",Brisbane,41400
+1,Arcade,Calgary,37000
+1,JRPG,Chandigarh,43500
+1,"Action RPG",Chennai,39800
+1,"4X Strategy",Chicago,37000
+1,"Action Adventure",Christchurch,37000
+1,"Space Combat Sim",Christchurch,37000
+1,"Real-Time Strategy",Christchurch,37000
+1,"Arcade Racing",Christchurch,37000
+1,"First-Person Adventure",Christchurch,37000
+1,"Matching Puzzle",Dallas,37000
+1,"2D Platformer",Dublin,93000
+1,Puzzle,Edmonton,37000
+1,Strategy,Florence,37000
+1,"Stacking Puzzle",Frankfurt,39100
+1,FPS,Galway,23400
+1,"Action Adventure",Hamburg,37000
+1,"Real-Time Tactics",Hamburg,37000
+1,"Open-World Action",Hamburg,37000
+1,FPS,Hamburg,37000
+1,"2D Fighting",London,37000
+1,Compilation,Melbourne,37000
+1,"Tactical FPS",Melbourne,37000
+1,Adventure,Melbourne,37000
+1,Party,Melbourne,37000
+1,"Action RPG",Mumbai,74100
+1,JRPG,"New Delhi",38100
+1,Survival,"New York",23400
+1,FPS,"New York",23400
+1,Action,Pune,37550
+1,Survival,Rome,19000
+1,"Card Battle",Rome,19000
+1,"Turn-Based Tactics",Singapore,74000
+1,Survival,Sydney,38000
+1,"3D Fighting",Toronto,37000
+1,Biking,Toronto,37000
+1,Dancing,Toronto,37000
+1,"Virtual Life",Toronto,37000
+1,"Auto Racing Sim",Toronto,37000
+1,Strategy,Vancouver,37000
+1,"Arcade Racing",Vancouver,37000
+1,"2D Beat-'Em-Up",Venice,19000
+1,Compilation,Venice,19000
+1,"Action Adventure",Wellington,43500
+2,"Action Puzzle",Auckland,75100
+2,"3D Beat-'Em-Up",Bengaluru,56000
+2,RPG,Briminghim,76250
+2,"3D Beat-'Em-Up",Brisbane,41400
+2,"Action Adventure",Calgary,56200
+2,"Auto Racing",Chandigarh,43500
+2,"3D Platformer",Chennai,19000
+2,"First-Person Adventure",Chicago,37000
+2,"Soccer Management",Chicago,37000
+2,"Action Puzzle",Chicago,37000
+2,"Action Adventure",Christchurch,74000
+2,Survival,Dallas,37550
+2,"Auto Racing",Dublin,39250
+2,"Auto Racing Sim",Edmonton,74000
+2,"2D Beat-'Em-Up",Florence,41400
+2,"2D Platformer",Frankfurt,19000
+2,"Space Sim",Frankfurt,19000
+2,"3D Platformer",Frankfurt,19000
+2,"Arcade Racing",Frankfurt,19000
+2,Compilation,Frankfurt,19000
+2,"Open-World Action",Galway,42400
+2,"Visual Novel",Hamburg,37000
+2,Skiing,Hamburg,37000
+2,Action,Hamburg,37000
+2,Strategy,London,37000
+2,"Rail Shooter",Melbourne,56000
+2,"Third-Person Adventure",Mumbai,37000
+2,"Soccer Sim","New Delhi",37000
+2,Edutainment,"New Delhi",37000
+2,Soccer,"New Delhi",37000
+2,"Action RPG","New York",74000
+2,"Card Battle",Pune,37000
+2,"Action RPG",Pune,37000
+2,"Action RPG",Rome,54400
+2,Tycoon,Singapore,74000
+2,Point-and-Click,Sydney,42500
+2,Point-and-Click,Toronto,37000
+2,Adventure,Toronto,37000
+2,"2D Platformer",Vancouver,19000
+2,Adventure,Venice,37000
+2,"Action Adventure",Wellington,37000
+3,"Matching Puzzle",Auckland,38000
+3,"Action RPG",Bengaluru,38100
+3,"Action RPG",Briminghim,111000
+3,JRPG,Brisbane,37000
+3,"3D Beat-'Em-Up",Brisbane,37000
+3,"Action Adventure",Brisbane,37000
+3,"Action Adventure",Calgary,37200
+3,Pinball,Chandigarh,37000
+3,"2D Platformer",Chandigarh,37000
+3,FPS,Chandigarh,37000
+3,Action,Chennai,74000
+3,JRPG,Chicago,37100
+3,"3D Beat-'Em-Up",Christchurch,37100
+3,"Action Adventure",Dallas,74000
+3,"Open-World Action",Dublin,21250
+3,"Action Adventure",Edmonton,42500
+3,"Action RPG",Florence,37000
+3,"2D Platformer",Frankfurt,56000
+3,"Top-Down Shoot-'Em-Up",Galway,37000
+3,"Real-Time Tactics",Galway,37000
+3,"Real-Time Strategy",Hamburg,74000
+3,Management,Hamburg,74000
+3,"Action Adventure",London,78400
+3,"Action Adventure",Melbourne,76250
+3,"4X Strategy",Mumbai,37000
+3,"Soccer Sim","New Delhi",37000
+3,FPS,"New Delhi",37000
+3,FPS,"New York",37550
+3,"Open-World Action",Pune,74000
+3,"2D Platformer",Rome,37000
+3,"3D Beat-'Em-Up",Rome,37000
+3,Adventure,Rome,37000
+3,"Command RTS",Singapore,43500
+3,"Third-Person Adventure",Sydney,74000
+3,"Action RPG",Toronto,37000
+3,Biking,Toronto,37000
+3,"Action Adventure",Vancouver,51750
+3,"Virtual Life",Venice,38000
+3,RPG,Wellington,41400
+4,"Action Adventure",Auckland,37550
+4,"Auto Racing Sim",Bengaluru,37550
+4,"3D Platformer",Briminghim,37000
+4,"3D Fighting",Briminghim,37000
+4,"Aircraft Combat Sim",Briminghim,37000
+4,Point-and-Click,Briminghim,37000
+4,"Tactical FPS",Brisbane,38100
+4,"Aircraft Combat Sim",Calgary,25500
+4,"Action RPG",Chandigarh,74000
+4,Rhythm,Chennai,74000
+4,"Real-Time Strategy",Chicago,74000
+4,"Auto Racing",Christchurch,40250
+4,Compilation,Dallas,37000
+4,"Action Puzzle",Dublin,37000
+4,"Third Person Shooter",Dublin,37000
+4,"3D Beat-'Em-Up",Edmonton,74000
+4,"2D Platformer",Edmonton,74000
+4,"2D Beat-'Em-Up",Florence,37000
+4,"Arcade Racing",Frankfurt,19000
+4,Rhythm,Frankfurt,19000
+4,"Western RPG",Frankfurt,19000
+4,"3D Platformer",Frankfurt,19000
+4,"Top-Down Shoot-'Em-Up",Galway,37000
+4,"Soccer Management",Galway,37000
+4,Party,Hamburg,75000
+4,"2D Platformer",London,43600
+4,Adventure,Melbourne,37000
+4,Rhythm,Mumbai,19000
+4,"Tactical FPS",Mumbai,19000
+4,FPS,"New Delhi",41400
+4,"Open-World Action","New York",74000
+4,"3D Platformer",Pune,43500
+4,Action,Rome,48000
+4,FPS,Singapore,80050
+4,"Linear Action Adventure",Sydney,38000
+4,"Virtual Life",Toronto,37000
+4,"2D Fighting",Vancouver,43600
+4,"Soccer Sim",Venice,37000
+4,Adventure,Wellington,96350
+5,"Open-World Action",Auckland,38000
+5,"Auto Racing Sim",Bengaluru,93550
+5,"Action Adventure",Briminghim,76300
+5,"2D Platformer",Brisbane,48250
+5,"2D Fighting",Calgary,74000
+5,"Auto Racing",Chandigarh,74000
+5,"Open-World Action",Chennai,38100
+5,JRPG,Chicago,75200
+5,"Action Adventure",Christchurch,46850
+5,Athletics,Dallas,37000
+5,"Action Adventure",Dallas,37000
+5,RPG,Dallas,37000
+5,Arcade,Dublin,38000
+5,"Real-Time Strategy",Dublin,38000
+5,"Top-Down Shoot-'Em-Up",Edmonton,115400
+5,"Tactical FPS",Florence,41400
+5,Management,Frankfurt,76000
+5,FPS,Galway,44600
+5,"Linear Action Adventure",Hamburg,112100
+5,JRPG,London,42050
+5,Party,Melbourne,78400
+5,"Action RPG",Mumbai,42600
+5,"Soccer Sim","New Delhi",74000
+5,Adventure,"New York",76250
+5,"First-Person Adventure",Pune,78400
+5,"2D Platformer",Rome,56000
+5,"3D Beat-'Em-Up",Singapore,115400
+5,Adventure,Sydney,38000
+5,"Action Adventure",Toronto,75650
+5,"2D Fighting",Vancouver,111000
+5,"Third Person Shooter",Venice,39750
+5,"Western RPG",Wellington,74000
+6,"Turn-Based Tactics",Auckland,37000
+6,"3D Platformer",Auckland,37000
+6,"Virtual Life",Auckland,37000
+6,JRPG,Auckland,37000
+6,"3D Beat-'Em-Up",Bengaluru,56000
+6,"Command RTS",Briminghim,74000
+6,"Auto Racing",Brisbane,38000
+6,"Open-World Action",Calgary,74000
+6,"Card Battle",Chandigarh,37000
+6,Roguelike,Chandigarh,37000
+6,"Linear Action Adventure",Chandigarh,37000
+6,"Action Puzzle",Chennai,74000
+6,JRPG,Chicago,37100
+6,"Vehicle Combat Sim",Christchurch,74000
+6,"3D Platformer",Dallas,38000
+6,"Auto Racing Sim",Dallas,38000
+6,"Visual Novel",Dublin,37000
+6,"Western RPG",Dublin,37000
+6,Sandbox,Dublin,37000
+6,"Action Puzzle",Edmonton,76250
+6,"Aircraft Combat Sim",Florence,38000
+6,"Auto Racing",Florence,38000
+6,Pinball,Frankfurt,37000
+6,"First-Person Adventure",Frankfurt,37000
+6,"Auto Racing Sim",Galway,74000
+6,FPS,Hamburg,37000
+6,"Action Adventure",London,75100
+6,Adventure,Melbourne,74000
+6,"Action RPG",Mumbai,74550
+6,Compilation,"New Delhi",78400
+6,"Action Adventure","New York",75650
+6,Tycoon,Pune,43500
+6,"Auto Racing",Pune,43500
+6,"Open-World Action",Rome,37000
+6,"Action Adventure",Rome,37000
+6,"2D Platformer",Singapore,79700
+6,"Action Adventure",Sydney,88100
+6,"Action Adventure",Toronto,112000
+6,"2D Platformer",Vancouver,38100
+6,Strategy,Venice,37000
+6,"Third Person Shooter",Venice,37000
+6,"3D Beat-'Em-Up",Wellington,37000
+6,Party,Wellington,37000
